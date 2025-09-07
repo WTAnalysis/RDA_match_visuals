@@ -25,8 +25,8 @@ from PIL import Image
 from matplotlib import colors as mcolors
 
 wtaimaged = Image.open("RDA.png")
-st.set_page_config(page_title="WT Analysis - Match Visuals", layout="wide")
-st.title("WT Analysis - Match Visuals")
+st.set_page_config(page_title="RDA Insights - Match Visuals", layout="wide")
+st.title("RDA Insights - Match Visuals")
 schedule_df = pd.DataFrame()
 selected_description = None
 matchlink = None
@@ -2897,7 +2897,7 @@ if matchlink:
                 try:
                     add_image(homeimage, fig, left=0.155, bottom=0.15, width=0.1, alpha=0.5, interpolation='hanning')
                     add_image(awayimage, fig, left=0.765, bottom=0.15, width=0.1, alpha=0.5, interpolation='hanning')
-                    add_image(wtaimaged, fig, left=0.482, bottom=0.4275, width=0.06, alpha=0.25, interpolation='hanning')
+                    add_image(wtaimaged, fig, left=0.4828, bottom=0.4275, width=0.06, alpha=0.25, interpolation='hanning')
                 except Exception:
                     pass
             
