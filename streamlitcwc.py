@@ -3240,7 +3240,7 @@ if matchlink:
                         ax_image = add_image(
                             wtaimaged,
                             fig,
-                            left=0.755,        # push to right edge (same anchor space as legend)
+                            left=0.78,        # push to right edge (same anchor space as legend)
                             bottom=0.7,      # higher up so it sits above legend
                             width=0.125,       # adjust to fit
                             alpha=1,
