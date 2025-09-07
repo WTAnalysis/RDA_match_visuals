@@ -3242,7 +3242,7 @@ if matchlink:
                             fig,
                             left=0.735,        # push to right edge (same anchor space as legend)
                             bottom=0.7,      # higher up so it sits above legend
-                            width=0.225,       # adjust to fit
+                            width=0.125,       # adjust to fit
                             alpha=1,
                             interpolation='hanning'
                         )
