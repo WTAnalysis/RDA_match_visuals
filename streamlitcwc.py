@@ -2399,7 +2399,7 @@ if matchlink:
                     teamimage = Image.open(urlopen(URL))
                     from PIL import Image
             
-                    wtaimaged = Image.open("rda.png")
+                    wtaimaged = Image.open("RDA.png")
                     from matplotlib.offsetbox import OffsetImage, AnnotationBbox
                     import matplotlib.pyplot as plt
                     import numpy as np
