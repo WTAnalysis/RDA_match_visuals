@@ -1770,185 +1770,185 @@ if matchlink:
         league_colors = {
             "FA Cup": {
                 "TextColor": "white",
-                "BackgroundColor": "red",
-                "PitchColor": "#e5e1e0",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
-                "SonarPass": "#e5e1e0",
-                "SonarCarry": "darkblue",
-                "HullColor": "red"
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
             },
             "INT-FIFACWC": {
                 "TextColor": "white",
-                "BackgroundColor": "black",
-                "PitchColor": "#e5e6b1",
-                "PitchLineColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
+                "PitchLineColor": "black",
                 "SonarPass": "red",
-                "SonarCarry": "yellow",
-                "HullColor": "black"
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
             },
             "Carabao Cup": {
-                "TextColor": "black",
-                "BackgroundColor": "#fc957e",
-                "PitchColor": "#c4f0e1",
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
-                "SonarPass": "#c4f0e1",
-                "SonarCarry": "#178fce",
-                "HullColor": "red"
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
             },
             "Premier League": {
                 "TextColor": "white",
-                "BackgroundColor": "#381d54",
-                "PitchColor": "#f5f6fc",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
-                "SonarPass": "#f5f6fc",
-                "SonarCarry": "yellow",
-                "HullColor": "#381d54"
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
             },
             "World Cup Qualifiers (UEFA)": {
                 "TextColor": "white",
-                "BackgroundColor": "#973d52",
-                "PitchColor": "#e2e2e3",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
-                "SonarPass": "#e2e2e3",
-                "SonarCarry": "#f3da15",
-                "HullColor": "#973d52"
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
             },
             "League One": {
-                "TextColor": "black",
-                "BackgroundColor": "#ede6cf",
-                "PitchColor": "#d4d6e3",
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
-                "SonarPass": "#d4d6e3",
-                "SonarCarry": "red",
-                "HullColor": "darkblue"
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
             },
             "Championship": {
-                "TextColor": "black",
-                "BackgroundColor": "#ede6cf",
-                "PitchColor": "#d4d6e3",
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
-                "SonarPass": "#d4d6e3",
-                "SonarCarry": "red",
-                "HullColor": "darkblue"
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
             },
             "Serie A": {
-                "TextColor": "black",
-                "BackgroundColor": "#f5f2f3",
-                "PitchColor": "#ffe3e9",
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
                 "SonarPass": "red",
                 "SonarCarry": "#87cbfc",
-                "HullColor": "darkblue"
+                "HullColor": "#A7192B"
             },
             "Serie B": {
-                "TextColor": "black",
-                "BackgroundColor": "#f5f2f3",
-                "PitchColor": "#ffe3e9",
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
                 "SonarPass": "red",
                 "SonarCarry": "#87cbfc",
-                "HullColor": "darkblue"
+                "HullColor": "#A7192B"
             },
             "League Two": {
-                "TextColor": "black",
-                "BackgroundColor": "#ede6cf",
-                "PitchColor": "#d4d6e3",
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
-                "SonarPass": "#d4d6e3",
-                "SonarCarry": "red",
-                "HullColor": "darkblue"
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
             },
             "Scottish Premiership": {
                 "TextColor": "white",
-                "BackgroundColor": "#212b5a",
-                "PitchColor": "#f1e5bd",
-                "PitchLineColor": "black",
-                "SonarPass": "#f1e5bd",
-                "SonarCarry": "pink",
-                "HullColor": "#212b5a"
-            },
-            "MLS": {
-                "TextColor": "white",
-                "BackgroundColor": "#d92419",
-                "PitchColor": "#68a7c8",
-                "PitchLineColor": "black",
-                "SonarPass": "#68a7c8",
-                "SonarCarry": "white",
-                "HullColor": "#d92419"
-            },
-            "Champions League": {
-                "TextColor": "white",
-                "BackgroundColor": "#00106f",
-                "PitchColor": "#62c6dd",
-                "PitchLineColor": "black",
-                "SonarPass": "#62c6dd",
-                "SonarCarry": "yellow",
-                "HullColor": "#00106f"
-            },
-            "UEFA Super Cup": {
-                "TextColor": "white",
-                "BackgroundColor": "#00106f",
-                "PitchColor": "#62c6dd",
-                "PitchLineColor": "black",
-                "SonarPass": "#62c6dd",
-                "SonarCarry": "yellow",
-                "HullColor": "#00106f"
-            },
-            "Champions League Qualifiers": {
-                "TextColor": "white",
-                "BackgroundColor": "#00106f",
-                "PitchColor": "#62c6dd",
-                "PitchLineColor": "black",
-                "SonarPass": "#62c6dd",
-                "SonarCarry": "yellow",
-                "HullColor": "#00106f"
-            },
-            "Europa Conference League": {
-                "TextColor": "black",
-                "BackgroundColor": "#da9240",
-                "PitchColor": "#b9b9bb",
-                "PitchLineColor": "black",
-                "SonarPass": "#b9b9bb",
-                "SonarCarry": "blue",
-                "HullColor": "#da9240"
-            },
-            "Europa Conference League Qualifiers": {
-                "TextColor": "black",
-                "BackgroundColor": "#da9240",
-                "PitchColor": "#b9b9bb",
-                "PitchLineColor": "black",
-                "SonarPass": "#b9b9bb",
-                "SonarCarry": "blue",
-                "HullColor": "#da9240"
-            },
-            "Europa League": {
-                "TextColor": "black",
-                "BackgroundColor": "#da9240",
-                "PitchColor": "#b9b9bb",
-                "PitchLineColor": "black",
-                "SonarPass": "#b9b9bb",
-                "SonarCarry": "blue",
-                "HullColor": "#da9240"
-            },
-            "Europa League Qualifiers": {
-                "TextColor": "black",
-                "BackgroundColor": "#da9240",
-                "PitchColor": "#b9b9bb",
-                "PitchLineColor": "black",
-                "SonarPass": "#b9b9bb",
-                "SonarCarry": "blue",
-                "HullColor": "#da9240"
-            },
-            "WSL": {
-                "TextColor": "white",
-                "BackgroundColor": "#ad2eaf",
-                "PitchColor": "#f1c6d2",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
                 "SonarPass": "red",
                 "SonarCarry": "#87cbfc",
-                "HullColor": "#ad2eaf"
+                "HullColor": "#A7192B"
             },
-            "WSL (RDA)": {
+            "MLS": {
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
+                "PitchLineColor": "black",
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
+            },
+            "Champions League": {
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
+                "PitchLineColor": "black",
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
+            },
+            "UEFA Super Cup": {
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
+                "PitchLineColor": "black",
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
+            },
+            "Champions League Qualifiers": {
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
+                "PitchLineColor": "black",
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
+            },
+            "Europa Conference League": {
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
+                "PitchLineColor": "black",
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
+            },
+            "Europa Conference League Qualifiers": {
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
+                "PitchLineColor": "black",
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
+            },
+            "Europa League": {
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
+                "PitchLineColor": "black",
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
+            },
+            "Europa League Qualifiers": {
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
+                "PitchLineColor": "black",
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
+            },
+            "WSL": {
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
+                "PitchLineColor": "black",
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
+            },
+            "Frauen Bundesliga": {
                 "TextColor": "white",
                 "BackgroundColor": "#A7192B",
                 "PitchColor": "#B3B3B3",
@@ -1959,14 +1959,68 @@ if matchlink:
             },
             "WSL2": {
                 "TextColor": "white",
-                "BackgroundColor": "#ad2eaf",
-                "PitchColor": "#f1c6d2",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
                 "SonarPass": "red",
                 "SonarCarry": "#87cbfc",
-                "HullColor": "#ad2eaf"
+                "HullColor": "#A7192B"
             },
-            "WSL2 (RDA)": {
+            "USL Super League": {
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
+                "PitchLineColor": "black",
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
+            },
+            "Liga F": {
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
+                "PitchLineColor": "black",
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
+            },
+            "Premiere League": {
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
+                "PitchLineColor": "black",
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
+            },
+            "Serie A Women": {
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
+                "PitchLineColor": "black",
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
+            },
+            "NWSL": {
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
+                "PitchLineColor": "black",
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
+            },
+            "A League Women": {
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
+                "PitchLineColor": "black",
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
+            },
+            "Women's Champions League": {
                 "TextColor": "white",
                 "BackgroundColor": "#A7192B",
                 "PitchColor": "#B3B3B3",
@@ -1976,176 +2030,176 @@ if matchlink:
                 "HullColor": "#A7192B"
             },
             "La Liga": {
-                "TextColor": "#ff4b44",
-                "BackgroundColor": "white",
-                "PitchColor": "white",
-                "PitchLineColor": "#ff4b44",
-                "SonarPass": "#ff4b44",
-                "SonarCarry": "#178fce",
-                "HullColor": "blue"
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
+                "PitchLineColor": "black",
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
             },
             "Bundesliga": {
                 "TextColor": "white",
-                "BackgroundColor": "#d10214",
-                "PitchColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
-                "SonarPass": "white",
-                "SonarCarry": "yellow",
-                "HullColor": "#d10214"
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
             },
             "2. Bundesliga": {
                 "TextColor": "white",
-                "BackgroundColor": "#d10214",
-                "PitchColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
-                "SonarPass": "white",
-                "SonarCarry": "yellow",
-                "HullColor": "#d10214"
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
             },
             "Ligue 1": {
                 "TextColor": "white",
-                "BackgroundColor": "#091c3d",
-                "PitchColor": "#E7F5AC",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
-                "SonarPass": "#E7F5AC",
-                "SonarCarry": "red",
-                "HullColor": "#091c3d"
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
             },             
             "Brasilerao": {
                 "TextColor": "white",
-                "BackgroundColor": "black",
-                "PitchColor": "#dcfc30",
-                "PitchLineColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
+                "PitchLineColor": "black",
                 "SonarPass": "red",
-                "SonarCarry": "blue",
-                "HullColor": "black"
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
 
             },
             "Pro League": {
-                "TextColor": "black",
-                "BackgroundColor": "#f5f2f3",
-                "PitchColor": "#ffe3e9",
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
                 "SonarPass": "red",
                 "SonarCarry": "#87cbfc",
-                "HullColor": "darkblue"
+                "HullColor": "#A7192B"
             },
             "Liga Portugal": {
                 "TextColor": "white",
-                "BackgroundColor": "#001e50",
-                "PitchColor": "#f5f6fc",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
-                "SonarPass": "#f5f6fc",
-                "SonarCarry": "yellow",
-                "HullColor": "#001e50"
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
             },
             "TUR-SuperLig": {
-                "TextColor": "black",
-                "BackgroundColor": "#f5f2f3",
-                "PitchColor": "#ffe3e9",
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
                 "SonarPass": "red",
                 "SonarCarry": "#87cbfc",
-                "HullColor": "darkblue"
+                "HullColor": "#A7192B"
             },
             "Friendly": {
-                "TextColor": "black",
-                "BackgroundColor": "#f5f2f3",
-                "PitchColor": "#ffe3e9",
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
                 "SonarPass": "red",
                 "SonarCarry": "#87cbfc",
-                "HullColor": "darkblue"
+                "HullColor": "#A7192B"
             },
             "Superligaen": {
-                "TextColor": "black",
-                "BackgroundColor": "#f5f2f3",
-                "PitchColor": "#ffe3e9",
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
                 "SonarPass": "red",
                 "SonarCarry": "#87cbfc",
-                "HullColor": "darkblue"
+                "HullColor": "#A7192B"
             },
             "Austrian Bundesliga": {
-                "TextColor": "black",
-                "BackgroundColor": "#f5f2f3",
-                "PitchColor": "#ffe3e9",
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
                 "SonarPass": "red",
                 "SonarCarry": "#87cbfc",
-                "HullColor": "darkblue"
+                "HullColor": "#A7192B"
             },
             "A-League": {
-                "TextColor": "black",
-                "BackgroundColor": "#f5f2f3",
-                "PitchColor": "#ffe3e9",
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
                 "SonarPass": "red",
                 "SonarCarry": "#87cbfc",
-                "HullColor": "darkblue"
+                "HullColor": "#A7192B"
             },
             "Swiss Super League": {
-                "TextColor": "black",
-                "BackgroundColor": "#f5f2f3",
-                "PitchColor": "#ffe3e9",
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
                 "SonarPass": "red",
                 "SonarCarry": "#87cbfc",
-                "HullColor": "darkblue"
+                "HullColor": "#A7192B"
             },
             "INT-NationsLeagueA": {
-                "TextColor": "black",
-                "BackgroundColor": "#ebf3fc",
-                "PitchColor": "#c9def9",
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
                 "SonarPass": "red",
-                "SonarCarry": "yellow",
-                "HullColor": "#ebf3fc"
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
             },
             "INT-NationsLeagueB": {
-                "TextColor": "black",
-                "BackgroundColor": "#ebf3fc",
-                "PitchColor": "#c9def9",
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
                 "SonarPass": "red",
-                "SonarCarry": "yellow",
-                "HullColor": "#ebf3fc"
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
             },
             "INT-NationsLeagueC": {
-                "TextColor": "black",
-                "BackgroundColor": "#ebf3fc",
-                "PitchColor": "#c9def9",
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
                 "SonarPass": "red",
-                "SonarCarry": "yellow",
-                "HullColor": "#ebf3fc"
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
             },
             "INT-FIFAWCQ": {
                 "TextColor": "white",
-                "BackgroundColor": "#a8161c",
-                "PitchColor": "#cecccd",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
-                "SonarPass": "#cecccd",
-                "SonarCarry": "#f8ca0f",
-                "HullColor": "#a8161c"
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
             },
             "INT-NationsLeagueD": {
-                "TextColor": "black",
-                "BackgroundColor": "#ebf3fc",
-                "PitchColor": "#c9def9",
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
                 "SonarPass": "red",
-                "SonarCarry": "yellow",
-                "HullColor": "#ebf3fc"
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
             },
             "INT-NationsLeagueAQ": {
-                "TextColor": "black",
-                "BackgroundColor": "#ebf3fc",
-                "PitchColor": "#c9def9",
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
                 "PitchLineColor": "black",
                 "SonarPass": "red",
-                "SonarCarry": "yellow",
-                "HullColor": "#ebf3fc"
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
             }
 
         }
@@ -2345,7 +2399,7 @@ if matchlink:
                     teamimage = Image.open(urlopen(URL))
                     from PIL import Image
             
-                    wtaimaged = Image.open("wtatransnew.png")
+                    wtaimaged = Image.open("rda.png")
                     from matplotlib.offsetbox import OffsetImage, AnnotationBbox
                     import matplotlib.pyplot as plt
                     import numpy as np
@@ -2529,325 +2583,326 @@ if matchlink:
                     
 
         
-        with tab2:
-            st.header("Match Momentum Visual")
-        
-            import numpy as np
-            import matplotlib.pyplot as plt
-            from matplotlib.offsetbox import OffsetImage, AnnotationBbox
-            from scipy.interpolate import make_interp_spline
-            from urllib.request import urlopen
-            from PIL import Image
-        
-            # ---------- data prep ----------
-            pivot_df = df.pivot_table(index='timeMin', columns='team_name',
-                                      values='xT_value', aggfunc='sum').reset_index()
-            for column in pivot_df.columns:
-                pivot_df[column].fillna(0, inplace=True)
-            pivot_df['score_difference'] = pivot_df[teamname] - pivot_df[opponentname]
-            pivot_df['rolling_avg_score_difference'] = (
-                pivot_df['score_difference'].rolling(window=5, min_periods=1).mean()
-            )
-        
-            goals = df[df['typeId'].isin(['Goal', 'Own Goal'])]
-            goal_time = goals['timeMin']
-        
-            halftime = df[df['periodId'] == 1]['timeMin'].max()
-            fulltime  = df[df['periodId'] == 2]['timeMin'].max()
-        
-            # ---------- images ----------
-            hometeamlogo = teamdata.iloc[0, 0]
-            awayteamlogo = teamdata.iloc[1, 0]
-            HOMEURL = f"https://omo.akamai.opta.net/image.php?h=www.scoresway.com&sport=football&entity=team&description=badges&dimensions=150&id={hometeamlogo}"
-            AWAYURL = f"https://omo.akamai.opta.net/image.php?h=www.scoresway.com&sport=football&entity=team&description=badges&dimensions=150&id={awayteamlogo}"
-        
-            # Ensure RGBA so numpy arrays are (H, W, 4)
-            homeimage = Image.open(urlopen(HOMEURL)).convert("RGBA")
-            awayimage = Image.open(urlopen(AWAYURL)).convert("RGBA")
-            footballimage = Image.open('football.png')
-        
-            # ---------- watermark helper ----------
-            def prepare_watermark(pil_img, *, opacity=0.14, bg_threshold=0.985, min_keep_ratio=0.15):
-                """
-                Return RGBA ndarray with a single, scaled alpha channel.
-                - If the image already has alpha: just scale the alpha.
-                - If no alpha: try to remove near-white background; if that removes too much,
-                  fall back to keeping all pixels and just apply opacity.
-                """
-                arr = np.array(pil_img).astype(np.float32) / 255.0
-        
-                if arr.ndim == 2:  # grayscale to RGB
-                    arr = np.repeat(arr[..., None], 3, axis=-1)
-        
-                if arr.shape[-1] == 4:
-                    # scale existing alpha
-                    arr[..., 3] *= opacity
-                    return arr
-        
-                # add alpha and try to drop near-white
-                alpha = np.ones(arr.shape[:2], dtype=np.float32)
-        
-                rgb = arr[..., :3]
-                bright = rgb.max(axis=-1)
-                spread = rgb.ptp(axis=-1)  # max-min across channels
-                near_white = (bright > bg_threshold) & (spread < 0.06)
-        
-                removed_ratio = near_white.mean()
-                if 1.0 - removed_ratio < min_keep_ratio:
-                    # too destructive; keep all pixels
-                    alpha[:] = 1.0
-                else:
-                    alpha[near_white] = 0.0
-        
-                alpha *= opacity
-                return np.dstack([rgb, alpha])
-        
-            # ---------- plot ----------
-            fig, ax = plt.subplots(figsize=(10, 6))
-            fig.set_facecolor(BackgroundColor)
-            ax.set_facecolor(PitchColor)
-        
-            x = pivot_df['timeMin']
-            y = pivot_df['rolling_avg_score_difference']
-            spl = make_interp_spline(x, y, k=3)
-            x_smooth = np.linspace(x.min(), x.max(), 300)
-            y_smooth = spl(x_smooth)
-        
-            ax.fill_between(
-                x_smooth, y_smooth, where=(y_smooth >= 0), interpolate=True,
-                color=homecolor1, alpha=0.45, edgecolor=homecolor2
-            )
-            ax.fill_between(
-                x_smooth, y_smooth, where=(y_smooth < 0), interpolate=True,
-                color=awaycolor1, alpha=0.45, edgecolor=awaycolor2
-            )
-        
-            for goal_min in goal_time:
-                closest_idx = (pivot_df['timeMin'] - goal_min).abs().idxmin()
-                y_value = pivot_df.loc[closest_idx, 'rolling_avg_score_difference']
-                img_y_pos = y_value + 0.115 if y_value >= 0 else y_value - 0.115
-                imagebox_goal = OffsetImage(footballimage, zoom=0.035, alpha=0.75)
-                ax.add_artist(AnnotationBbox(imagebox_goal, (goal_min, img_y_pos), frameon=False))
-        
-            if pd.notna(halftime):
-                ax.axvline(x=halftime, color='green', linestyle='--', linewidth=1)
-            if pd.notna(fulltime) and fulltime >= 90:
-                ax.axvline(x=fulltime, color='green', linestyle='--', linewidth=1)
-        
-            ax.set_title(f'{teamname} v {opponentname} Match Momentum', color=TextColor)
-            ax.set_xlabel('Minute')
-            ax.set_ylabel('')
-            ax.set_ylim(-1.5, 1.5)
-            ax.set_yticks([])
-            ax.axhline(y=0, color='black', linewidth=0.8)
-            ax.grid(True, which='both', linestyle='--', linewidth=0.5, color='gray')
-            ax.tick_params(colors=TextColor)
-            ax.xaxis.label.set_color(TextColor)
-            ax.yaxis.label.set_color(TextColor)
-            # ---------- logos (clean & add) ----------
-            home_img_wm = prepare_watermark(homeimage, opacity=0.12)
-            away_img_wm = prepare_watermark(awayimage, opacity=0.12)
-        
-            ax.add_artist(AnnotationBbox(OffsetImage(home_img_wm, zoom=0.5), (5, 1),
-                                         frameon=False, zorder=0))
-            ax.add_artist(AnnotationBbox(OffsetImage(away_img_wm, zoom=0.5),
-                                         (pivot_df['timeMin'].max() - 5, -1),
-                                         frameon=False, zorder=0))
-        
-            # WTA logo (keep as you had it)
-            ax.add_artist(AnnotationBbox(OffsetImage(wtaimaged, zoom=0.1, alpha=0.25),
-                                         (5, -1), frameon=False, zorder=0))
-        
-            st.pyplot(fig)
-            plt.close(fig)
-
-        with tab3:
-            st.header("Average Positions")
-        
-            import numpy as np
-            import pandas as pd
-        
-            # ---- find a usable minute column ----
-            if "minute" in df.columns:
-                minute_col = "minute"
-            elif "timeMin" in df.columns:
-                minute_col = "timeMin"
-            else:
-                st.info("No 'minute' or 'timeMin' column found.")
-                st.stop()
-        
-            # ---- colours fallback ----
-            try:
-                _hc1, _hc2, _ac1, _ac2 = homecolor1, homecolor2, awaycolor1, awaycolor2
-            except NameError:
-                _hc1, _hc2, _ac1, _ac2 = "red", "white", "blue", "white"
-        
-            # ---- base guard ----
-            if df.empty:
-                st.info("Not enough event data to compute average positions for this match.")
-                st.stop()
-        
-            # ---- coerce minutes to numeric & guard ----
-            minutes = pd.to_numeric(df[minute_col], errors="coerce")
-            if minutes.notna().sum() == 0:
-                st.info("No valid minute data available for this match.")
-                st.stop()
-        
-            # Work on a copy to keep things clean
-            df = df.copy()
-            df["_minutes"] = minutes
-        
-            # ---- compute slider bounds ----
-            min_minute = int(np.nanmin(df["_minutes"]))
-            max_minute = int(np.nanmax(df["_minutes"]))
-            if min_minute == max_minute:
-                max_minute = min_minute + 1
-        
-            # ---- compute half-time (max minute in period 1, if present) ----
-            ht_minute, ht_label, ht_pos_pct = None, "(HT unknown)", None
-            if "periodId" in df.columns:
-                mask_p1 = (df["periodId"] == 1) & df["_minutes"].notna()
-                if mask_p1.any():
-                    ht_val = df.loc[mask_p1, "_minutes"].max()
-                    if pd.notna(ht_val):
-                        ht_minute = int(ht_val)
-                        ht_label = f"(HT at {ht_minute}’)"
-                        rng = (max_minute - min_minute)
-                        ht_pos_pct = 0 if rng == 0 else 100 * (ht_minute - min_minute) / rng
-        
-            # ---- slider ----
-            minute_range = st.slider(
-                f"Select Minute Range {ht_label}",
-                min_value=min_minute,
-                max_value=max_minute,
-                value=(min_minute, max_minute),
-                step=1,
-                key="avgpos_minute_range",
-            )
-        
-            # ---- visual HT marker under the slider (simple ruler) ----
-            if ht_minute is not None and ht_pos_pct is not None:
-                st.markdown(
-                    f"""
-                    <div style="position:relative;height:10px;margin-top:-6px;margin-bottom:10px;
-                                background:#e5e7eb;border-radius:6px;">
-                      <div style="position:absolute;left:{ht_pos_pct:.2f}%;top:-6px;width:2px;height:22px;background:#ef4444;"></div>
-                    </div>
-                    <div style="font-size:12px;opacity:0.8;">HT at {ht_minute}’</div>
-                    """,
-                    unsafe_allow_html=True,
+            with tab2:
+                st.header("Match Momentum Visual")
+            
+                import numpy as np
+                import matplotlib.pyplot as plt
+                from matplotlib.offsetbox import OffsetImage, AnnotationBbox
+                from scipy.interpolate import make_interp_spline
+                from urllib.request import urlopen
+                from PIL import Image
+            
+                # ---------- data prep ----------
+                pivot_df = df.pivot_table(index='timeMin', columns='team_name',
+                                          values='xT_value', aggfunc='sum').reset_index()
+                for column in pivot_df.columns:
+                    pivot_df[column].fillna(0, inplace=True)
+                pivot_df['score_difference'] = pivot_df[teamname] - pivot_df[opponentname]
+                pivot_df['rolling_avg_score_difference'] = (
+                    pivot_df['score_difference'].rolling(window=5, min_periods=1).mean()
                 )
-        
-            # ---- filter df by selected range (using numeric minutes) ----
-            df_filtered = df[df["_minutes"].between(minute_range[0], minute_range[1], inclusive="both")].copy()
-            if df_filtered.empty:
-                st.info("Not enough data in the selected range to compute average positions.")
-                st.stop()
-        
-            # ---- NEW: exclude sub on/off events from the calculation ----
-            # Robust to casing and non-strings; if typeId missing, we just keep everything.
-            if "typeId" in df_filtered.columns:
-                _type = df_filtered["typeId"].astype(str).str.lower()
-                df_calc = df_filtered[~_type.isin(["player on", "player off"])].copy()
-            else:
-                df_calc = df_filtered
-        
-            # ---- build lineups (starters only) ----
-            homelineup = starting_lineups[
-                (starting_lineups["team_name"] == teamname) &
-                (starting_lineups["is_starter"] == "yes")
-            ].copy()
-        
-            awaylineup = starting_lineups[
-                (starting_lineups["team_name"] != teamname) &
-                (starting_lineups["is_starter"] == "yes")
-            ].copy()
-        
-            if homelineup.empty or awaylineup.empty:
-                st.info("Starting lineups are missing; cannot compute average positions.")
-                st.stop()
-        
-            # ---- ensure x/y are numeric before averaging ----
-            df_calc["x"] = pd.to_numeric(df_calc.get("x"), errors="coerce")
-            df_calc["y"] = pd.to_numeric(df_calc.get("y"), errors="coerce")
-        
-            # ---- averages (home) ----
-            df_averages_home = (
-                df_calc[df_calc["playerName"].isin(homelineup["player_name"])]
-                .dropna(subset=["x", "y"])
-                .groupby("playerName", as_index=False)
-                .agg({"x": "mean", "y": "mean"})
-                .rename(columns={"playerName": "player_name"})
-            )
-            homeresult = pd.merge(homelineup, df_averages_home, on="player_name", how="left").dropna(subset=["x", "y"])
-        
-            # ---- averages (away) ----
-            df_averages_away = (
-                df_calc[df_calc["playerName"].isin(awaylineup["player_name"])]
-                .dropna(subset=["x", "y"])
-                .groupby("playerName", as_index=False)
-                .agg({"x": "mean", "y": "mean"})
-                .rename(columns={"playerName": "player_name"})
-            )
-            awayresult = pd.merge(awaylineup, df_averages_away, on="player_name", how="left").dropna(subset=["x", "y"])
-        
-            if homeresult.empty and awayresult.empty:
-                st.info("No positional events available for starters in the selected range.")
-                st.stop()
-        
-            # ---- draw pitch ----
-            from mplsoccer import Pitch, add_image
-            from matplotlib.font_manager import FontProperties
-            import matplotlib.pyplot as plt
-        
-            # optional theme vars if defined elsewhere
-            _pitch_color = "white"; _line_color = "black"; _bg_color = "white"; _text_color = "black"
-            try:
-                _pitch_color = PitchColor or _pitch_color
-                _line_color  = PitchLineColor or _line_color
-                _bg_color    = BackgroundColor or _bg_color
-                _text_color  = TextColor or _text_color
-            except NameError:
-                pass
-        
-            pitch = Pitch(pitch_type="opta", pitch_color=_pitch_color, line_color=_line_color)
-            fig, ax = pitch.draw(figsize=(12, 8.25), constrained_layout=True, tight_layout=False)
-            fig.set_facecolor(_bg_color)
-        
-            # ---- plot home ----
-            for _, r in homeresult.iterrows():
-                pitch.scatter(r["x"], r["y"], s=425, color=_hc1, edgecolors=_hc2, linewidth=1, alpha=1, ax=ax)
-                if pd.notna(r.get("squad_number")):
-                    pitch.annotate(str(int(r["squad_number"])),
-                                   xy=(r["x"] - 0.15, r["y"] - 0.15),
-                                   color=_hc2, va="center", ha="center", size=8, weight="bold", ax=ax)
-        
-            # ---- plot away (flipped to the other half) ----
-            for _, r in awayresult.iterrows():
-                px, py = (100 - r["x"], 100 - r["y"])
-                pitch.scatter(px, py, s=425, color=_ac1, edgecolors=_ac2, linewidth=1, alpha=1, ax=ax)
-                if pd.notna(r.get("squad_number")):
-                    pitch.annotate(str(int(r["squad_number"])),
-                                   xy=(px - 0.15, py - 0.15),
-                                   color=_ac2, va="center", ha="center", size=8, weight="bold", ax=ax)
-        
-            # ---- title ----
-            title_font = FontProperties(family="Tahoma", size=15)
-            ax.set_title(
-                f"{teamname} vs {opponentname} — Average Positions {minute_range[0]}’–{minute_range[1]}’",
-                fontproperties=title_font, color=_text_color
-            )
-        
-            # (optional) logos if those images are loaded above
-            try:
-                add_image(homeimage, fig, left=0.155, bottom=0.15, width=0.1, alpha=0.5, interpolation='hanning')
-                add_image(awayimage, fig, left=0.765, bottom=0.15, width=0.1, alpha=0.5, interpolation='hanning')
-                add_image(wtaimaged, fig, left=0.462, bottom=0.45, width=0.1, alpha=0.25, interpolation='hanning')
-            except Exception:
-                pass
-        
-            st.pyplot(fig)
-            plt.close(fig)
+            
+                goals = df[df['typeId'].isin(['Goal', 'Own Goal'])]
+                goal_time = goals['timeMin']
+            
+                halftime = df[df['periodId'] == 1]['timeMin'].max()
+                fulltime  = df[df['periodId'] == 2]['timeMin'].max()
+            
+                # ---------- images ----------
+                hometeamlogo = teamdata.iloc[0, 0]
+                awayteamlogo = teamdata.iloc[1, 0]
+                HOMEURL = f"https://omo.akamai.opta.net/image.php?h=www.scoresway.com&sport=football&entity=team&description=badges&dimensions=150&id={hometeamlogo}"
+                AWAYURL = f"https://omo.akamai.opta.net/image.php?h=www.scoresway.com&sport=football&entity=team&description=badges&dimensions=150&id={awayteamlogo}"
+            
+                # Ensure RGBA so numpy arrays are (H, W, 4)
+                homeimage = Image.open(urlopen(HOMEURL)).convert("RGBA")
+                awayimage = Image.open(urlopen(AWAYURL)).convert("RGBA")
+                footballimage = Image.open('football.png')
+            
+                # ---------- watermark helper ----------
+                def prepare_watermark(pil_img, *, opacity=0.14, bg_threshold=0.985, min_keep_ratio=0.15):
+                    """
+                    Return RGBA ndarray with a single, scaled alpha channel.
+                    - If the image already has alpha: just scale the alpha.
+                    - If no alpha: try to remove near-white background; if that removes too much,
+                      fall back to keeping all pixels and just apply opacity.
+                    """
+                    arr = np.array(pil_img).astype(np.float32) / 255.0
+            
+                    if arr.ndim == 2:  # grayscale to RGB
+                        arr = np.repeat(arr[..., None], 3, axis=-1)
+            
+                    if arr.shape[-1] == 4:
+                        # scale existing alpha
+                        arr[..., 3] *= opacity
+                        return arr
+            
+                    # add alpha and try to drop near-white
+                    alpha = np.ones(arr.shape[:2], dtype=np.float32)
+            
+                    rgb = arr[..., :3]
+                    bright = rgb.max(axis=-1)
+                    spread = rgb.ptp(axis=-1)  # max-min across channels
+                    near_white = (bright > bg_threshold) & (spread < 0.06)
+            
+                    removed_ratio = near_white.mean()
+                    if 1.0 - removed_ratio < min_keep_ratio:
+                        # too destructive; keep all pixels
+                        alpha[:] = 1.0
+                    else:
+                        alpha[near_white] = 0.0
+            
+                    alpha *= opacity
+                    return np.dstack([rgb, alpha])
+            
+                # ---------- plot ----------
+                fig, ax = plt.subplots(figsize=(10, 6))
+                fig.set_facecolor(BackgroundColor)
+                ax.set_facecolor(PitchColor)
+            
+                x = pivot_df['timeMin']
+                y = pivot_df['rolling_avg_score_difference']
+                spl = make_interp_spline(x, y, k=3)
+                x_smooth = np.linspace(x.min(), x.max(), 300)
+                y_smooth = spl(x_smooth)
+            
+                ax.fill_between(
+                    x_smooth, y_smooth, where=(y_smooth >= 0), interpolate=True,
+                    color=homecolor1, alpha=0.45, edgecolor=homecolor2
+                )
+                ax.fill_between(
+                    x_smooth, y_smooth, where=(y_smooth < 0), interpolate=True,
+                    color=awaycolor1, alpha=0.45, edgecolor=awaycolor2
+                )
+            
+                for goal_min in goal_time:
+                    closest_idx = (pivot_df['timeMin'] - goal_min).abs().idxmin()
+                    y_value = pivot_df.loc[closest_idx, 'rolling_avg_score_difference']
+                    img_y_pos = y_value + 0.115 if y_value >= 0 else y_value - 0.115
+                    imagebox_goal = OffsetImage(footballimage, zoom=0.035, alpha=0.75)
+                    ax.add_artist(AnnotationBbox(imagebox_goal, (goal_min, img_y_pos), frameon=False))
+            
+                if pd.notna(halftime):
+                    ax.axvline(x=halftime, color='green', linestyle='--', linewidth=1)
+                if pd.notna(fulltime) and fulltime >= 90:
+                    ax.axvline(x=fulltime, color='green', linestyle='--', linewidth=1)
+            
+                ax.set_title(f'{teamname} v {opponentname} Match Momentum', color=TextColor)
+                ax.set_xlabel('Minute')
+                ax.set_ylabel('')
+                ax.set_ylim(-1.5, 1.5)
+                ax.set_yticks([])
+                ax.axhline(y=0, color='black', linewidth=0.8)
+                ax.grid(True, which='both', linestyle='--', linewidth=0.5, color='gray')
+                ax.tick_params(colors=TextColor)
+                ax.xaxis.label.set_color(TextColor)
+                ax.yaxis.label.set_color(TextColor)
+                # ---------- logos (clean & add) ----------
+                home_img_wm = prepare_watermark(homeimage, opacity=0.12)
+                away_img_wm = prepare_watermark(awayimage, opacity=0.12)
+            
+                ax.add_artist(AnnotationBbox(OffsetImage(home_img_wm, zoom=0.5), (5, 1),
+                                             frameon=False, zorder=0))
+                ax.add_artist(AnnotationBbox(OffsetImage(away_img_wm, zoom=0.5),
+                                             (pivot_df['timeMin'].max() - 5, -1),
+                                             frameon=False, zorder=0))
+            
+                # WTA logo (keep as you had it)
+                ax.add_artist(AnnotationBbox(OffsetImage(wtaimaged, zoom=0.1, alpha=0.25),
+                                             (5, -1), frameon=False, zorder=0))
+            
+                st.pyplot(fig)
+                plt.close(fig)
+
+
+            with tab3:
+                st.header("Average Positions")
+            
+                import numpy as np
+                import pandas as pd
+            
+                # ---- find a usable minute column ----
+                if "minute" in df.columns:
+                    minute_col = "minute"
+                elif "timeMin" in df.columns:
+                    minute_col = "timeMin"
+                else:
+                    st.info("No 'minute' or 'timeMin' column found.")
+                    st.stop()
+            
+                # ---- colours fallback ----
+                try:
+                    _hc1, _hc2, _ac1, _ac2 = homecolor1, homecolor2, awaycolor1, awaycolor2
+                except NameError:
+                    _hc1, _hc2, _ac1, _ac2 = "red", "white", "blue", "white"
+            
+                # ---- base guard ----
+                if df.empty:
+                    st.info("Not enough event data to compute average positions for this match.")
+                    st.stop()
+            
+                # ---- coerce minutes to numeric & guard ----
+                minutes = pd.to_numeric(df[minute_col], errors="coerce")
+                if minutes.notna().sum() == 0:
+                    st.info("No valid minute data available for this match.")
+                    st.stop()
+            
+                # Work on a copy to keep things clean
+                df = df.copy()
+                df["_minutes"] = minutes
+            
+                # ---- compute slider bounds ----
+                min_minute = int(np.nanmin(df["_minutes"]))
+                max_minute = int(np.nanmax(df["_minutes"]))
+                if min_minute == max_minute:
+                    max_minute = min_minute + 1
+            
+                # ---- compute half-time (max minute in period 1, if present) ----
+                ht_minute, ht_label, ht_pos_pct = None, "(HT unknown)", None
+                if "periodId" in df.columns:
+                    mask_p1 = (df["periodId"] == 1) & df["_minutes"].notna()
+                    if mask_p1.any():
+                        ht_val = df.loc[mask_p1, "_minutes"].max()
+                        if pd.notna(ht_val):
+                            ht_minute = int(ht_val)
+                            ht_label = f"(HT at {ht_minute}’)"
+                            rng = (max_minute - min_minute)
+                            ht_pos_pct = 0 if rng == 0 else 100 * (ht_minute - min_minute) / rng
+            
+                # ---- slider ----
+                minute_range = st.slider(
+                    f"Select Minute Range {ht_label}",
+                    min_value=min_minute,
+                    max_value=max_minute,
+                    value=(min_minute, max_minute),
+                    step=1,
+                    key="avgpos_minute_range",
+                )
+            
+                # ---- visual HT marker under the slider (simple ruler) ----
+                if ht_minute is not None and ht_pos_pct is not None:
+                    st.markdown(
+                        f"""
+                        <div style="position:relative;height:10px;margin-top:-6px;margin-bottom:10px;
+                                    background:#e5e7eb;border-radius:6px;">
+                          <div style="position:absolute;left:{ht_pos_pct:.2f}%;top:-6px;width:2px;height:22px;background:#ef4444;"></div>
+                        </div>
+                        <div style="font-size:12px;opacity:0.8;">HT at {ht_minute}’</div>
+                        """,
+                        unsafe_allow_html=True,
+                    )
+            
+                # ---- filter df by selected range (using numeric minutes) ----
+                df_filtered = df[df["_minutes"].between(minute_range[0], minute_range[1], inclusive="both")].copy()
+                if df_filtered.empty:
+                    st.info("Not enough data in the selected range to compute average positions.")
+                    st.stop()
+            
+                # ---- NEW: exclude sub on/off events from the calculation ----
+                # Robust to casing and non-strings; if typeId missing, we just keep everything.
+                if "typeId" in df_filtered.columns:
+                    _type = df_filtered["typeId"].astype(str).str.lower()
+                    df_calc = df_filtered[~_type.isin(["player on", "player off"])].copy()
+                else:
+                    df_calc = df_filtered
+            
+                # ---- build lineups (starters only) ----
+                homelineup = starting_lineups[
+                    (starting_lineups["team_name"] == teamname) &
+                    (starting_lineups["is_starter"] == "yes")
+                ].copy()
+            
+                awaylineup = starting_lineups[
+                    (starting_lineups["team_name"] != teamname) &
+                    (starting_lineups["is_starter"] == "yes")
+                ].copy()
+            
+                if homelineup.empty or awaylineup.empty:
+                    st.info("Starting lineups are missing; cannot compute average positions.")
+                    st.stop()
+            
+                # ---- ensure x/y are numeric before averaging ----
+                df_calc["x"] = pd.to_numeric(df_calc.get("x"), errors="coerce")
+                df_calc["y"] = pd.to_numeric(df_calc.get("y"), errors="coerce")
+            
+                # ---- averages (home) ----
+                df_averages_home = (
+                    df_calc[df_calc["playerName"].isin(homelineup["player_name"])]
+                    .dropna(subset=["x", "y"])
+                    .groupby("playerName", as_index=False)
+                    .agg({"x": "mean", "y": "mean"})
+                    .rename(columns={"playerName": "player_name"})
+                )
+                homeresult = pd.merge(homelineup, df_averages_home, on="player_name", how="left").dropna(subset=["x", "y"])
+            
+                # ---- averages (away) ----
+                df_averages_away = (
+                    df_calc[df_calc["playerName"].isin(awaylineup["player_name"])]
+                    .dropna(subset=["x", "y"])
+                    .groupby("playerName", as_index=False)
+                    .agg({"x": "mean", "y": "mean"})
+                    .rename(columns={"playerName": "player_name"})
+                )
+                awayresult = pd.merge(awaylineup, df_averages_away, on="player_name", how="left").dropna(subset=["x", "y"])
+            
+                if homeresult.empty and awayresult.empty:
+                    st.info("No positional events available for starters in the selected range.")
+                    st.stop()
+            
+                # ---- draw pitch ----
+                from mplsoccer import Pitch, add_image
+                from matplotlib.font_manager import FontProperties
+                import matplotlib.pyplot as plt
+            
+                # optional theme vars if defined elsewhere
+                _pitch_color = "white"; _line_color = "black"; _bg_color = "white"; _text_color = "black"
+                try:
+                    _pitch_color = PitchColor or _pitch_color
+                    _line_color  = PitchLineColor or _line_color
+                    _bg_color    = BackgroundColor or _bg_color
+                    _text_color  = TextColor or _text_color
+                except NameError:
+                    pass
+            
+                pitch = Pitch(pitch_type="opta", pitch_color=_pitch_color, line_color=_line_color)
+                fig, ax = pitch.draw(figsize=(12, 8.25), constrained_layout=True, tight_layout=False)
+                fig.set_facecolor(_bg_color)
+            
+                # ---- plot home ----
+                for _, r in homeresult.iterrows():
+                    pitch.scatter(r["x"], r["y"], s=425, color=_hc1, edgecolors=_hc2, linewidth=1, alpha=1, ax=ax)
+                    if pd.notna(r.get("squad_number")):
+                        pitch.annotate(str(int(r["squad_number"])),
+                                       xy=(r["x"] - 0.15, r["y"] - 0.15),
+                                       color=_hc2, va="center", ha="center", size=8, weight="bold", ax=ax)
+            
+                # ---- plot away (flipped to the other half) ----
+                for _, r in awayresult.iterrows():
+                    px, py = (100 - r["x"], 100 - r["y"])
+                    pitch.scatter(px, py, s=425, color=_ac1, edgecolors=_ac2, linewidth=1, alpha=1, ax=ax)
+                    if pd.notna(r.get("squad_number")):
+                        pitch.annotate(str(int(r["squad_number"])),
+                                       xy=(px - 0.15, py - 0.15),
+                                       color=_ac2, va="center", ha="center", size=8, weight="bold", ax=ax)
+            
+                # ---- title ----
+                title_font = FontProperties(family="Tahoma", size=15)
+                ax.set_title(
+                    f"{teamname} vs {opponentname} — Average Positions {minute_range[0]}’–{minute_range[1]}’",
+                    fontproperties=title_font, color=_text_color
+                )
+            
+                # (optional) logos if those images are loaded above
+                try:
+                    add_image(homeimage, fig, left=0.155, bottom=0.15, width=0.1, alpha=0.5, interpolation='hanning')
+                    add_image(awayimage, fig, left=0.765, bottom=0.15, width=0.1, alpha=0.5, interpolation='hanning')
+                    add_image(wtaimaged, fig, left=0.462, bottom=0.45, width=0.1, alpha=0.25, interpolation='hanning')
+                except Exception:
+                    pass
+            
+                st.pyplot(fig)
+                plt.close(fig)
         with tab4:
             st.subheader("Player Actions")
         
