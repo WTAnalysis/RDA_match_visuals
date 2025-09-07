@@ -2897,7 +2897,7 @@ if matchlink:
                 try:
                     add_image(homeimage, fig, left=0.155, bottom=0.15, width=0.1, alpha=0.5, interpolation='hanning')
                     add_image(awayimage, fig, left=0.765, bottom=0.15, width=0.1, alpha=0.5, interpolation='hanning')
-                    add_image(wtaimaged, fig, left=0.492, bottom=0.44, width=0.06, alpha=0.25, interpolation='hanning')
+                    add_image(wtaimaged, fig, left=0.478, bottom=0.4275, width=0.06, alpha=0.25, interpolation='hanning')
                 except Exception:
                     pass
             
