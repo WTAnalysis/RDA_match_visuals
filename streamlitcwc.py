@@ -25,6 +25,8 @@ from PIL import Image
 from matplotlib import colors as mcolors
 
 wtaimaged = Image.open("RDA.png")
+wtaimagew = Image.open("RDAwhite.png")
+
 st.set_page_config(page_title="RDA Insights - Match Visuals", layout="wide")
 st.title("RDA Insights - Match Visuals")
 schedule_df = pd.DataFrame()
@@ -2572,9 +2574,10 @@ if matchlink:
                     ax_image = add_image(teamimage, fig, left=0.5375, bottom=-0.049, width=0.055,
                                          alpha=1, interpolation='hanning')
             
-                    ax_image = add_image(wtaimaged, fig, left=0.4475, bottom=-0.055, width=0.03,
-                                         alpha=1, interpolation='hanning')
-                    #ax_image = add_image(leagueimage, fig, left=0.565, bottom=-0.03175, width=0.03,
+                    #ax_image = add_image(wtaimaged, fig, left=0.4475, bottom=-0.055, width=0.03,
+                    #                     alpha=1, interpolation='hanning')
+                    ax_image = add_image(wtaimagew, fig, left=0.4475, bottom=-0.055, width=0.03,
+                                         alpha=1, interpolation='hanning')                   #ax_image = add_image(leagueimage, fig, left=0.565, bottom=-0.03175, width=0.03,
                     #                     alpha=1, interpolation='hanning')
                     dpi = 600
                     st.pyplot(fig)
@@ -3237,8 +3240,17 @@ if matchlink:
                             plot_mask(m_goal,   facecolor="green", edgecolor="green", marker="*", size=100)
                         if show_interceptions:
                             plot_mask(m_intr, facecolor="green", edgecolor="green", marker="H", size=40)
+                        #ax_image = add_image(
+                        #    wtaimaged,
+                        #    fig,
+                        #    left=0.784,        # push to right edge (same anchor space as legend)
+                        #    bottom=0.7,      # higher up so it sits above legend
+                        #    width=0.125,       # adjust to fit
+                        #    alpha=1,
+                        #    interpolation='hanning'
+                        #)
                         ax_image = add_image(
-                            wtaimaged,
+                            wtaimagew,
                             fig,
                             left=0.784,        # push to right edge (same anchor space as legend)
                             bottom=0.7,      # higher up so it sits above legend
