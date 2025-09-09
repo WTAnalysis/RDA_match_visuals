@@ -2624,6 +2624,11 @@ if matchlink:
                 # ---------- images ----------
                 hometeamlogo = teamdata.iloc[0, 0]
                 awayteamlogo = teamdata.iloc[1, 0]
+                if hometeamlogo == "cpxv65ua10liq2k8ovsezf7ox":
+                    hometeamlogo = "1qtaiy11gswx327s0vkibf70n"
+                
+                if awayteamlogo == "cpxv65ua10liq2k8ovsezf7ox":
+                    awayteamlogo = "1qtaiy11gswx327s0vkibf70n"  
                 HOMEURL = f"https://omo.akamai.opta.net/image.php?h=www.scoresway.com&sport=football&entity=team&description=badges&dimensions=150&id={hometeamlogo}"
                 AWAYURL = f"https://omo.akamai.opta.net/image.php?h=www.scoresway.com&sport=football&entity=team&description=badges&dimensions=150&id={awayteamlogo}"
             
