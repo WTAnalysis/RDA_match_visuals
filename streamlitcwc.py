@@ -2404,7 +2404,8 @@ if matchlink:
                     #teamname = anderson.iloc[0]['team_name']
                     teamlogoid = teamdata.loc[teamdata['name'] == teamname, 'id'].values[0]
                     opponentname2 = teamdata.loc[teamdata['name'] != teamname, 'name'].values[0]
-            
+                    if teamlogoid == "cpxv65ua10liq2k8ovsezf7ox":
+                        teamlogoid = "1qtaiy11gswx327s0vkibf70n"           
                     URL = f"https://omo.akamai.opta.net/image.php?h=www.scoresway.com&sport=football&entity=team&description=badges&dimensions=150&id={teamlogoid}"
                     # EFFIONG https://cdn5.wyscout.com/photos/players/public/g144828_100x130.png
                     teamimage = Image.open(urlopen(URL))
