@@ -1869,6 +1869,15 @@ if matchlink:
                 "SonarCarry": "#87cbfc",
                 "HullColor": "#A7192B"
             },
+             "SWPL": {
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
+                "PitchLineColor": "black",
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
+            },
             "MLS": {
                 "TextColor": "white",
                 "BackgroundColor": "#A7192B",
