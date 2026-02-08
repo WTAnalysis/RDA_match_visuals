@@ -2158,6 +2158,15 @@ if matchlink:
                 "SonarCarry": "#87cbfc",
                 "HullColor": "#A7192B"
             },
+            "A-League Women": {
+                "TextColor": "white",
+                "BackgroundColor": "#A7192B",
+                "PitchColor": "#B3B3B3",
+                "PitchLineColor": "black",
+                "SonarPass": "red",
+                "SonarCarry": "#87cbfc",
+                "HullColor": "#A7192B"
+            },
             "Swiss Super League": {
                 "TextColor": "white",
                 "BackgroundColor": "#A7192B",
